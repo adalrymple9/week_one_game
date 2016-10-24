@@ -24,12 +24,7 @@ Please enter the letter that corresponds to the type of word you'd like to unscr
 
                 A  Kid-Friendly Words
                 B  If you've got kids, you spell these all the time...
-
-
-
-
-
-
+                C  This is a change that can be seen on github
 "
 
 #Here user is given faux option for kid-friendly vs expletive.
